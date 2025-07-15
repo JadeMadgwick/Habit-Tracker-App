@@ -1,4 +1,4 @@
-# Habit Tracker App
+# My Habit Tracker App
 
 This is a Python-based habit tracking application designed for individuals who want to build and monitor their daily or weekly habits. The app supports streak tracking, flexible frequency settings, and includes analytical features to help users build consistent routines over time.
 
@@ -69,5 +69,5 @@ Tests are located in the test_project.py file and automatically generate simulat
 - `test_project.py`: Contains unit tests with 4 weeks of dummy data
 - `data/habits.json`: Stores habit data automatically
 - `README.md`: Project overview and usage instructions
-- `requirements.txt`: Lists required Python packages
+- requirements.txt: Lists required Python packages
 - `.gitignore`: Excludes unwanted files like `__pycache__/`
